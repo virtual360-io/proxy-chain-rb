@@ -1,6 +1,6 @@
 # ProxyChainRb
 
-ProxyChainRb is a wrapper around the Node.JS library [proxy-chain](https://github.com/apifytech/proxy-chain).
+ProxyChainRb is a Ruby wrapper around the Node.JS library [proxy-chain](https://github.com/apifytech/proxy-chain).
 
 It enables you to tunnel proxies that require authentication via a non-auth proxy started on localhost (making it possible to use authenticated proxies in e.g. Chrome and Firefox via Selenium).
 

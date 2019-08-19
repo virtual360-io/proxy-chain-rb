@@ -4,6 +4,8 @@ ProxyChainRb is a Ruby wrapper around the Node.JS library [proxy-chain](https://
 
 It enables you to tunnel proxies that require authentication via non-authenticated proxies bound to localhost (making it possible to use authenticated proxies in e.g. Chrome and Firefox via Selenium).
 
+This gem was created for scenarios where [proxifier](https://github.com/samuelkadolph/ruby-proxifier) wouldn't work. NordVPN proxies for example work with ProxyChainRb but somehow can't be used together with proxifier.
+
 ## Installation
 
 Add this line to your application's Gemfile:

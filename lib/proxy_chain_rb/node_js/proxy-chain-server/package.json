@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "proxy-chain": "^0.2.7"
+    "proxy-chain": "^0.3.2"
   }
 }
